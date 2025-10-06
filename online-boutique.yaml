@@ -977,4 +977,3 @@ apiVersion: v1
 kind: ServiceAccount
 metadata:
   name: adservice
-# [END gke_release_kubernetes_manifests_microservices_demo]
