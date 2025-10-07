@@ -83,12 +83,12 @@ spec:
           ports:
           - containerPort: 8080
           readinessProbe:
-            initialDelaySeconds: 10
+            initialDelaySeconds: 30
             httpGet:
               path: "/_healthz"
               port: 8080
           livenessProbe:
-            initialDelaySeconds: 10
+            initialDelaySeconds: 30
             httpGet:
               path: "/_healthz"
               port: 8080
