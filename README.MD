@@ -1,9 +1,3 @@
-
-# Resumo Técnico
-
-As modificações no manifesto adaptam a aplicação de um ambiente de produção ideal para um ambiente de desenvolvimento/teste com recursos limitados. Elas trocam a detecção rápida de falhas por uma maior resiliência e tolerância a lentidões, resultando em uma implantação mais estável para os fins deste projeto.
-
-
 # Documentação: Implantação de Microserviços com Argo CD em Ambiente Local
 
 Este documento detalha o procedimento técnico para configurar um ambiente de desenvolvimento local em um MacBook M1 e implantar uma aplicação de microserviços (Online Boutique) utilizando GitOps com Argo CD.
